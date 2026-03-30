@@ -1,0 +1,136 @@
+{
+  "meta": {
+    "title": "Premium Clinic & Hospital",
+    "description": "Doğru tedavi, sağlıklı gelecek! Premium Clinic - Bakü'de modern tıp kliniği"
+  },
+  "nav": {
+    "home": "Ana Sayfa",
+    "about": "Hakkımızda",
+    "doctors": "Doktorlar",
+    "departments": "Bölümler",
+    "gallery": "Galeri",
+    "contact": "İletişim",
+    "checkup": "Check-up",
+    "articles": "Makaleler",
+    "career": "Kariyer",
+    "certificates": "Sertifikalar",
+    "clinic": "Klinik"
+  },
+  "hero": {
+    "badge": "2013'ten beri hizmetinizde",
+    "title": "Doğru tedavi,",
+    "titleHighlight": "sağlıklı gelecek!",
+    "subtitle": "İleri teknoloji ve geniş deneyimle en son tıbbi yenilikleri sunuyoruz. Premium adına yakışır tıbbi hizmet.",
+    "cta": "Randevu Al",
+    "ctaSecondary": "Daha Fazla",
+    "trustedBy": "Güvenilen"
+  },
+  "about": {
+    "title": "Hakkımızda",
+    "subtitle": "Premium Clinic & Hospital",
+    "description": "Premium Clinic LLC 24 Nisan 2013'te kurulmuş olup 084718 numaralı lisans ile faaliyet göstermektedir. Bakü, Nesimi ilçesi, Asif Maharramov cad., 25B adresinde modern 6 katlı binada yer almaktadır. Almanya, İtalya ve Türkiye üretimi modern tıbbi ekipmanlarla donatılmıştır.",
+    "descriptionFull": "Klinik avlusunda bireysel otopark yerleri ve hastalar ve yakınları için kafeterya bulunmaktadır. 6 katlı binada merkezi soğutma, ısıtma sistemi, tıbbi gaz sistemi ve uluslararası standartlara uygun havalandırma sistemi mevcuttur. Üç modern cerrahi blok, sterilizasyon ünitesi ve reanimasyon bölümü bulunmaktadır.",
+    "founded": "Kuruluş yılı",
+    "foundedValue": "2013",
+    "building": "6 katlı bina",
+    "operatingRooms": "3 cerrahi blok",
+    "beds": "24 cerrahi yatak",
+    "cabinets": "40 poliklinik kabineti",
+    "mission": "Misyonumuz",
+    "missionText": "Doğruluk, hassasiyet, insanlara şefkatli yaklaşım — temel değerlerimiz. En son tıbbi başarıları ve teknolojileri kullanıyoruz.",
+    "vision": "Vizyonumuz",
+    "visionText": "Halka uluslararası standartlarda premium tıbbi hizmet sunmak.",
+    "values": "Değerlerimiz",
+    "valuesText": "Doğruluk, hassasiyet, insanlara şefkatli yaklaşım ve kaliteli tedavi.",
+    "equipment": "Ekipmanlarımız Almanya, İtalya, Türkiye, ABD ve Japonya üretimlidir.",
+    "license": "Lisans: N 084718, 3 Mart 2015"
+  },
+  "consultation": {
+    "title": "Konsültasyon Alın",
+    "subtitle": "Bölüm seçin ve WhatsApp ile bize ulaşın",
+    "selectDepartment": "Bölüm seçin",
+    "button": "WhatsApp'a geç",
+    "needDoctor": "Muayene için doktora ihtiyacınız var mı?",
+    "needDoctorSub": "WhatsApp üzerinden randevu alın",
+    "bookNow": "Hemen Randevu Al"
+  },
+  "stats": {
+    "years": "Yıllık Deneyim",
+    "yearsValue": "11+",
+    "patients": "Mutlu Hasta",
+    "patientsValue": "50.000+",
+    "doctors": "Uzman Doktor",
+    "doctorsValue": "20+",
+    "departments": "Tıbbi Bölüm",
+    "departmentsValue": "28+"
+  },
+  "doctors": {
+    "title": "Doktorlarımız",
+    "subtitle": "Rusya, Almanya, Türkiye ve ABD'de eğitim almış uzmanlar",
+    "viewAll": "Tüm Doktorlar",
+    "schedule": "Çalışma Saatleri",
+    "weekdays": "Hafta içi: 09:00 - 18:00",
+    "sunday": "Pazar: Kapalı",
+    "viewProfile": "Profili Gör"
+  },
+  "departments": {
+    "title": "Tıbbi Bölümlerimiz",
+    "subtitle": "29 uzman bölümde geniş kapsamlı tıbbi hizmetler",
+    "learnMore": "Detaylı Bilgi",
+    "surgical": "Cerrahi",
+    "diagnostic": "Teşhis",
+    "clinical": "Klinik",
+    "therapeutic": "Terapötik"
+  },
+  "gallery": {
+    "title": "Galeri",
+    "subtitle": "Modern tıbbi tesisimiz"
+  },
+  "contact": {
+    "title": "İletişim",
+    "subtitle": "Bizimle iletişime geçin",
+    "address": "Adres",
+    "addressValue": "Bakü, Nesimi ilçesi, Asif Maharramov cad., 25B",
+    "phone": "Telefon",
+    "phoneValue": "+994 50 707 05 01",
+    "email": "E-posta",
+    "emailValue": "info@premiumclinic.az",
+    "whatsapp": "WhatsApp",
+    "sendMessage": "Mesaj Gönder",
+    "name": "Adınız",
+    "emailField": "E-postanız",
+    "phoneField": "Telefonunuz",
+    "department": "Bölüm",
+    "date": "Tarih",
+    "time": "Saat",
+    "message": "Mesajınız",
+    "submit": "Gönder",
+    "insurance": "Zorunlu Sağlık Sigortası kabul edilir",
+    "writeUs": "Bize yazın",
+    "hrEmail": "hr@premiumclinic.az"
+  },
+  "checkup": {
+    "title": "Check-up Paketleri",
+    "subtitle": "Sağlığınız için kapsamlı muayene paketleri",
+    "price": "Fiyat",
+    "includes": "Paket içeriği",
+    "book": "Sipariş Ver",
+    "oldPrice": "Eski fiyat"
+  },
+  "footer": {
+    "rights": "Tüm hakları saklıdır.",
+    "workHours": "Çalışma Saatleri",
+    "workHoursValue": "Her gün 09:00 - 18:00",
+    "quickLinks": "Hızlı Bağlantılar",
+    "followUs": "Bizi Takip Edin",
+    "motto": "Doğru teşhis ve kaliteli tedavinin adresi",
+    "departments": "Tıbbi Bölümler",
+    "other": "Diğer"
+  },
+  "common": {
+    "readMore": "Devamını Oku",
+    "backToHome": "Ana Sayfaya",
+    "loading": "Yükleniyor...",
+    "seeAll": "Tümünü Gör"
+  }
+}

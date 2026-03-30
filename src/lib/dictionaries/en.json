@@ -1,0 +1,136 @@
+{
+  "meta": {
+    "title": "Premium Clinic & Hospital",
+    "description": "Proper treatment, healthy future! Premium Clinic - Modern medical clinic in Baku"
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About Us",
+    "doctors": "Doctors",
+    "departments": "Departments",
+    "gallery": "Gallery",
+    "contact": "Contact",
+    "checkup": "Check-up",
+    "articles": "Articles",
+    "career": "Career",
+    "certificates": "Certificates",
+    "clinic": "Clinic"
+  },
+  "hero": {
+    "badge": "Serving since 2013",
+    "title": "Proper treatment,",
+    "titleHighlight": "healthy future!",
+    "subtitle": "We offer the latest medical innovations with advanced technology and extensive experience. Medical service worthy of the Premium name.",
+    "cta": "Book Appointment",
+    "ctaSecondary": "Learn More",
+    "trustedBy": "Trusted by"
+  },
+  "about": {
+    "title": "About Us",
+    "subtitle": "Premium Clinic & Hospital",
+    "description": "Premium Clinic LLC was established on April 24, 2013 and operates under license number 084718. Located in a modern 6-story building at 25B Asif Maharramov str., Nasimi district, Baku. Equipped with modern medical equipment from Germany, Italy, and Turkey.",
+    "descriptionFull": "The clinic courtyard features individual parking spaces and a cafeteria for patients and relatives. The 6-story building features central cooling, heating systems, medical gas systems, and international standard ventilation. Three modern surgical blocks, a sterilization unit, and a resuscitation department operate alongside outpatient services.",
+    "founded": "Founded",
+    "foundedValue": "2013",
+    "building": "6-story building",
+    "operatingRooms": "3 surgical blocks",
+    "beds": "24 surgical beds",
+    "cabinets": "40 outpatient cabinets",
+    "mission": "Our Mission",
+    "missionText": "Accuracy, precision, compassionate care — our core values. We utilize the latest medical achievements and technologies.",
+    "vision": "Our Vision",
+    "visionText": "To provide international-standard premium medical services to the population.",
+    "values": "Our Values",
+    "valuesText": "Accuracy, precision, compassionate care, and quality treatment.",
+    "equipment": "Our equipment is sourced from Germany, Italy, Turkey, USA, and Japan.",
+    "license": "License: N 084718, March 3, 2015"
+  },
+  "consultation": {
+    "title": "Get a Consultation",
+    "subtitle": "Select a department and contact us via WhatsApp",
+    "selectDepartment": "Select department",
+    "button": "Go to WhatsApp",
+    "needDoctor": "Need a doctor for examination?",
+    "needDoctorSub": "Schedule an appointment via WhatsApp",
+    "bookNow": "Book Now"
+  },
+  "stats": {
+    "years": "Years Experience",
+    "yearsValue": "11+",
+    "patients": "Happy Patients",
+    "patientsValue": "50,000+",
+    "doctors": "Expert Doctors",
+    "doctorsValue": "20+",
+    "departments": "Departments",
+    "departmentsValue": "28+"
+  },
+  "doctors": {
+    "title": "Our Doctors",
+    "subtitle": "Specialists trained in Russia, Germany, Turkey, and the USA",
+    "viewAll": "View All Doctors",
+    "schedule": "Working Hours",
+    "weekdays": "Weekdays: 09:00 - 18:00",
+    "sunday": "Sunday: Closed",
+    "viewProfile": "View Profile"
+  },
+  "departments": {
+    "title": "Medical Departments",
+    "subtitle": "Wide range of medical services across 29 specialized departments",
+    "learnMore": "Learn More",
+    "surgical": "Surgical",
+    "diagnostic": "Diagnostic",
+    "clinical": "Clinical",
+    "therapeutic": "Therapeutic"
+  },
+  "gallery": {
+    "title": "Gallery",
+    "subtitle": "Our modern medical facility"
+  },
+  "contact": {
+    "title": "Contact",
+    "subtitle": "Get in touch with us",
+    "address": "Address",
+    "addressValue": "Baku, Nasimi district, Asif Maharramov str., 25B",
+    "phone": "Phone",
+    "phoneValue": "+994 50 707 05 01",
+    "email": "Email",
+    "emailValue": "info@premiumclinic.az",
+    "whatsapp": "WhatsApp",
+    "sendMessage": "Send Message",
+    "name": "Your Name",
+    "emailField": "Your Email",
+    "phoneField": "Your Phone",
+    "department": "Department",
+    "date": "Date",
+    "time": "Time",
+    "message": "Your Message",
+    "submit": "Send",
+    "insurance": "Mandatory Health Insurance accepted",
+    "writeUs": "Write to us",
+    "hrEmail": "hr@premiumclinic.az"
+  },
+  "checkup": {
+    "title": "Check-up Packages",
+    "subtitle": "Comprehensive examination packages for your health",
+    "price": "Price",
+    "includes": "Package includes",
+    "book": "Book Now",
+    "oldPrice": "Previous price"
+  },
+  "footer": {
+    "rights": "All rights reserved.",
+    "workHours": "Working Hours",
+    "workHoursValue": "Every day 09:00 - 18:00",
+    "quickLinks": "Quick Links",
+    "followUs": "Follow Us",
+    "motto": "The address for accurate diagnosis and quality treatment",
+    "departments": "Medical Departments",
+    "other": "Other"
+  },
+  "common": {
+    "readMore": "Read More",
+    "backToHome": "Back to Home",
+    "loading": "Loading...",
+    "seeAll": "See All"
+  }
+}

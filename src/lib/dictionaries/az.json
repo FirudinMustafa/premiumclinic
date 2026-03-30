@@ -1,0 +1,136 @@
+{
+  "meta": {
+    "title": "Premium Clinic & Hospital",
+    "description": "Düzgün müalicə, sağlam gələcək! Premium Clinic - Bakıda müasir tibb klinikası"
+  },
+  "nav": {
+    "home": "Ana Səhifə",
+    "about": "Haqqımızda",
+    "doctors": "Həkimlər",
+    "departments": "Tibbi Bölümlər",
+    "gallery": "Qalereya",
+    "contact": "Əlaqə",
+    "checkup": "Check-up",
+    "articles": "Məqalələr",
+    "career": "Karyera",
+    "certificates": "Sertifikatlar",
+    "clinic": "Klinika"
+  },
+  "hero": {
+    "badge": "2013-cü ildən bəri xidmətinizdə",
+    "title": "Düzgün müalicə,",
+    "titleHighlight": "sağlam gələcək!",
+    "subtitle": "Qabaqcıl texnologiya və geniş təcrübə ilə ən son tibbi yenilikləri təklif edirik. Premium adına layiq tibbi xidmət.",
+    "cta": "Randevu Al",
+    "ctaSecondary": "Daha Ətraflı",
+    "trustedBy": "Etibar edən"
+  },
+  "about": {
+    "title": "Haqqımızda",
+    "subtitle": "Premium Clinic & Hospital",
+    "description": "Premium Clinic MMC 24 aprel 2013-cü ildə təsis olunmuş, 084718 nömrəli lisenziya əsasında fəaliyyət göstərən müasir tibb müəssisəsidir. Klinika Bakı şəhəri, Nəsimi rayonu, Asif Məhərrəmov küçəsi, 25B ünvanında, müasir standartlara uyğun 6 mərtəbəli binada yerləşir. Almanya, İtaliya və Türkiyə istehsalı müasir tibbi avadanlıqlarla təchiz olunmuşdur.",
+    "descriptionFull": "Klinikanın həyətində fərdi avtopark yerləri və xəstələr və yaxınları üçün kafeteriya mövcuddur. 6 mərtəbəli binada mərkəzi soyutma, istilik sistemi, tibbi qaz sistemi və beynəlxalq standartlara uyğun ventilyasiya sistemi, tibbi liftlər və yük liftləri quraşdırılmışdır. Üç müasir cərrahiyyə bloku, sterilizasiya bölməsi və reanimasiya şöbəsi mövcuddur.",
+    "founded": "Təsis ili",
+    "foundedValue": "2013",
+    "building": "6 mərtəbəli bina",
+    "operatingRooms": "3 cərrahiyyə bloku",
+    "beds": "24 cərrahiyyə çarpayısı",
+    "cabinets": "40 ambulator kabinet",
+    "mission": "Missiyamız",
+    "missionText": "Düzgünlük, dəqiqlik, insanlara xoş münasibət və qayğı — əsas dəyərlərimizdir. Ən son tibbi nailiyyətlərdən və texnologiyalardan istifadə edirik.",
+    "vision": "Vizyonumuz",
+    "visionText": "Əhaliyə beynəlxalq standartlara uyğun premium tibbi xidmət göstərmək.",
+    "values": "Dəyərlərimiz",
+    "valuesText": "Düzgünlük, dəqiqlik, insanlara xoş münasibət və qayğı, keyfiyyətli müalicə.",
+    "equipment": "Avadanlıqlarımız Almaniya, İtaliya, Türkiyə, ABŞ və Yaponiya istehsalıdır.",
+    "license": "Lisenziya: N 084718, 3 mart 2015"
+  },
+  "consultation": {
+    "title": "Konsultasiya alın",
+    "subtitle": "Bölüm seçin və WhatsApp vasitəsilə bizimlə əlaqə saxlayın",
+    "selectDepartment": "Bölüm seçin",
+    "button": "WhatsApp-a keçid",
+    "needDoctor": "Müayinə üçün həkimə ehtiyacınız var?",
+    "needDoctorSub": "WhatsApp vasitəsilə randevu təyin edin",
+    "bookNow": "İndi Randevu Al"
+  },
+  "stats": {
+    "years": "İllik Təcrübə",
+    "yearsValue": "11+",
+    "patients": "Məmnun Xəstə",
+    "patientsValue": "50,000+",
+    "doctors": "Mütəxəssis Həkim",
+    "doctorsValue": "20+",
+    "departments": "Tibbi Bölüm",
+    "departmentsValue": "28+"
+  },
+  "doctors": {
+    "title": "Həkimlərimiz",
+    "subtitle": "Rusiya, Almaniya, Türkiyə və ABŞ-da təhsil almış təcrübəli mütəxəssislər",
+    "viewAll": "Bütün Həkimlər",
+    "schedule": "İş Saatları",
+    "weekdays": "Həftə içi: 09:00 - 18:00",
+    "sunday": "Bazar: Bağlı",
+    "viewProfile": "Profili Gör"
+  },
+  "departments": {
+    "title": "Tibbi Bölümlərimiz",
+    "subtitle": "29 ixtisaslaşmış bölüm ilə geniş spektrli tibbi xidmətlər",
+    "learnMore": "Ətraflı",
+    "surgical": "Cərrahiyyə",
+    "diagnostic": "Diaqnostika",
+    "clinical": "Klinik",
+    "therapeutic": "Terapevtik"
+  },
+  "gallery": {
+    "title": "Qalereya",
+    "subtitle": "Müasir tibb müəssisəmiz"
+  },
+  "contact": {
+    "title": "Əlaqə",
+    "subtitle": "Bizimlə əlaqə saxlayın",
+    "address": "Ünvan",
+    "addressValue": "Bakı şəh., Nəsimi r-nu., Asif Məhərrəmov küç., 25B",
+    "phone": "Telefon",
+    "phoneValue": "+994 50 707 05 01",
+    "email": "E-poçt",
+    "emailValue": "info@premiumclinic.az",
+    "whatsapp": "WhatsApp",
+    "sendMessage": "Mesaj Göndər",
+    "name": "Adınız",
+    "emailField": "E-poçtunuz",
+    "phoneField": "Telefonunuz",
+    "department": "Bölüm",
+    "date": "Tarix",
+    "time": "Vaxt",
+    "message": "Mesajınız",
+    "submit": "Göndər",
+    "insurance": "İcbari Tibbi Sığorta qəbul olunur",
+    "writeUs": "Bizə yazın",
+    "hrEmail": "hr@premiumclinic.az"
+  },
+  "checkup": {
+    "title": "Check-up Paketləri",
+    "subtitle": "Sağlamlığınız üçün kompleks müayinə paketləri",
+    "price": "Qiymət",
+    "includes": "Paketə daxildir",
+    "book": "Sifariş Et",
+    "oldPrice": "Əvvəlki qiymət"
+  },
+  "footer": {
+    "rights": "Bütün hüquqlar qorunur.",
+    "workHours": "İş saatları",
+    "workHoursValue": "Hər gün 09:00 - 18:00",
+    "quickLinks": "Sürətli Keçidlər",
+    "followUs": "Bizi İzləyin",
+    "motto": "Düzgün diaqnoz və keyfiyyətli müalicənin ünvanı",
+    "departments": "Tibbi Bölümlər",
+    "other": "Digər"
+  },
+  "common": {
+    "readMore": "Daha Ətraflı",
+    "backToHome": "Ana Səhifəyə",
+    "loading": "Yüklənir...",
+    "seeAll": "Hamısını Gör"
+  }
+}
