@@ -33,7 +33,7 @@ export default async function HomePage({ params }: { params: Promise<{ lang: str
       <section className="py-20 bg-gray-50">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="grid lg:grid-cols-2 gap-16 items-center">
-            <div className="relative">
+            <div className="relative overflow-hidden sm:overflow-visible">
               <div className="relative rounded-3xl overflow-hidden shadow-2xl">
                 <Image
                   src="/images/about-bg.webp"

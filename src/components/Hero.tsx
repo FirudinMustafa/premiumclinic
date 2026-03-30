@@ -35,15 +35,15 @@ export default function Hero({ lang, dict }: HeroProps) {
               {dict.hero.badge}
             </div>
 
-            <h1 className="text-5xl sm:text-6xl lg:text-7xl font-bold text-white leading-tight mb-6">
+            <h1 className="text-3xl sm:text-5xl md:text-6xl lg:text-7xl font-bold text-white leading-tight mb-6">
               {dict.hero.title}
               <br />
-              <span className="gold-text text-6xl sm:text-7xl lg:text-8xl">
+              <span className="gold-text text-4xl sm:text-6xl md:text-7xl lg:text-8xl">
                 {dict.hero.titleHighlight}
               </span>
             </h1>
 
-            <p className="text-lg text-gray-300 leading-relaxed mb-10 max-w-lg">
+            <p className="text-base sm:text-lg text-gray-300 leading-relaxed mb-10 max-w-lg">
               {dict.hero.subtitle}
             </p>
 
@@ -128,8 +128,8 @@ export default function Hero({ lang, dict }: HeroProps) {
       </div>
 
       {/* Bottom wave */}
-      <div className="absolute bottom-0 left-0 right-0">
-        <svg viewBox="0 0 1440 80" fill="none" xmlns="http://www.w3.org/2000/svg" className="w-full">
+      <div className="absolute bottom-[-1px] left-0 right-0">
+        <svg viewBox="0 0 1440 80" fill="none" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none" className="w-full block h-[40px] sm:h-auto">
           <path d="M0 80L60 73.3C120 66.7 240 53.3 360 46.7C480 40 600 40 720 46.7C840 53.3 960 66.7 1080 70C1200 73.3 1320 66.7 1380 63.3L1440 60V80H1380C1320 80 1200 80 1080 80C960 80 840 80 720 80C600 80 480 80 360 80C240 80 120 80 60 80H0Z" fill="white"/>
         </svg>
       </div>
